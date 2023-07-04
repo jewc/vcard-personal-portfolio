@@ -4,7 +4,7 @@ vCard - Personal Portfolio
 
 alt = James Chin
 James Chin
-Web developer
+Developer
 
 Show Contacts
 
@@ -12,7 +12,7 @@ Email
 jamescew@gmail.com
 
 Phone
-+1 (267) 570-9117
++1(267) 570-9117
 
 Location
 Hong Kong
@@ -83,7 +83,6 @@ Clients
 alt = client logo
 
 
-
 # resume
 
 Resume
@@ -130,7 +129,6 @@ WordPress
 
 
 # portfolio
-
 Portfolio
 
 All
