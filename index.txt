@@ -2,23 +2,20 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = James Chin
+James Chin
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+jamescew@gmail.com
 
 Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
++1 (267) 570-9117
 
 Location
-Sacramento, California, USA
+Hong Kong
 
 # navbar
 
